@@ -19,7 +19,7 @@ This guide helps you to install the required software to run the Python/Jupyter 
     $ conda activate serpentine
     $ pip install -r requirements.txt
     ```
-## Registering at Joint Science Operations Center (JSOC)
+### Registering at Joint Science Operations Center (JSOC)
 Note that for running the PFSS functionality of the Solar-MACH tool, a registered user account is needed for obtaining HMI maps through JSOC! For this, please register your email at http://jsoc.stanford.edu/ajax/register_email.html
  
 ## Hands on sessions (on site)
