@@ -25,7 +25,12 @@ Note that for running the PFSS functionality of the Solar-MACH tool, a registere
 ## Instructions for Hands on Sessions (on site)
 ### Tuesday
 - **WP6: Analysis & Visualization tools**
-    - All the necessary information can be found at http://propagationtool.cdpp.eu
+    - Propagation Tool instructions are available at the website: http://propagationtool.cdpp.eu
+    - Linux users: installation of Java Runtime Environment (JRE) is necessary to run the tool ([more info](http://storms-tools.irap.omp.eu/PropagationTool/other/tests_jre.pdf))
+    - Hands-on session infos:
+        - [Propagation Tool tutorial](http://storms-tools.irap.omp.eu/PropagationTool/other/Propagation_Tool_tutorial.pdf)
+        - [AMDA (Solar Orbiter/HET plotting example)](http://filez.irap.omp.eu/d069hz118vye)
+        - [Magnetic Connectivity Tool tutorial](http://connect-tool.irap.omp.eu/static/img/tutorial/Magnetic%20Connectivity%20Tool%20Tutorial.pdf)
 
 ### Wednesday
 - **WP2: Multi-spacecraft SEP event analysis**
