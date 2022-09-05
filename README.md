@@ -24,6 +24,9 @@ Note that for running the PFSS functionality of the Solar-MACH tool, a registere
  
 ## Instructions for Hands on Sessions (on site)
 ### Tuesday
+- **WP7: Introduction to the server**
+    - SERPENTINE project data center: https://data.serpentine-h2020.eu
+    - [EPD-EPT level3 data demo](https://deepnote.com/workspace/serpentineworkshop2-14cd7410-8fa1-413a-8905-e8e87d54caea/project/EPD-level3-demo-64510156-78e0-4f9c-af76-17de3bec3031)
 - **WP6: Analysis & Visualization tools**
     - Propagation Tool instructions are available at the website: http://propagationtool.cdpp.eu
     - Linux users: installation of Java Runtime Environment (JRE) is necessary to run the tool ([more info](http://storms-tools.irap.omp.eu/PropagationTool/other/tests_jre.pdf))
