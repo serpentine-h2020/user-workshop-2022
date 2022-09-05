@@ -22,7 +22,7 @@ This guide helps you to install the required software to run the Python/Jupyter 
 ## Registering at Joint Science Operations Center (JSOC)
 Note that for running the PFSS functionality of the Solar-MACH tool, a registered user account is needed for obtaining HMI maps through JSOC! For this, please register your email at http://jsoc.stanford.edu/ajax/register_email.html
  
-## Hands on sessions
+## Hands on sessions (on site)
 - **WP2 (Wednesday):**
     1. [Download this file](https://github.com/serpentine-h2020/serpentine/archive/refs/heads/main.zip) and extract to a folder of your choice (or clone the repository https://github.com/serpentine-h2020/serpentine if you know how to use `git`).
     2. Open your terminal/command line/Anaconda prompt.
