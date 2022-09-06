@@ -37,7 +37,7 @@ Note that for running the PFSS functionality of the Solar-MACH tool, a registere
 
 ### Wednesday
 - **WP2: Multi-spacecraft SEP event analysis**
-    1. [Download this file](httpsgithub.com/serpentine-h2020/serpentine/archive/refs/heads/main.zip) and extract to a folder of your choice (or clone the repository https://github.com/serpentine-h2020/serpentine if you know how to use `git`).
+    1. [Download this file](https://github.com/serpentine-h2020/serpentine/archive/refs/heads/main.zip) and extract to a folder of your choice (or clone the repository https://github.com/serpentine-h2020/serpentine if you know how to use `git`).
     2. Open your terminal/command line/Anaconda prompt.
     3. In the terminal, navigate to the downloaded (extracted) folder `notebooks`.
     4. Make sure the corresponding conda environment is activated by running `conda activate serpentine` in the terminal.
