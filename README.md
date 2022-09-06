@@ -43,3 +43,7 @@ Note that for running the PFSS functionality of the Solar-MACH tool, a registere
     4. Make sure the corresponding conda environment is activated by running `conda activate serpentine` in the terminal.
     5. Run `jupyter notebook`
     6. Your standard web-browser should now open the Jupyter interface, where you can double click on the the corresponding folders and `.ipynb` files to launch them.
+- **WP3: Solar wind & solar eruption analysis**
+    1. Open your terminal/command line/Anaconda prompt. 
+    2. Make sure the corresponding conda environment is activated by running `conda activate serpentine` in the terminal.
+    3. Run `pip install PyThea==0.7.0`. Note that for Windows users, this unfortunately most probably crashes. So for this workshop, the Windows users should use the web-version at https://athkouloumvakos.github.io/PyThea/
