@@ -49,7 +49,7 @@ Note that for running the PFSS functionality of the Solar-MACH tool, a registere
     3. Run `pip install PyThea==0.7.0` (Note that for Windows users, this unfortunately most probably will crash at the moment.)
     
 ### Thursday
-- **WP4: In-situ shock acceleration**
+- **WP4: In-situ shock parameter analysis**
     1. [Download this file](https://github.com/serpentine-h2020/user-workshop-2022/archive/refs/heads/master.zip) and extract to a folder of your choice (or clone the repository https://github.com/serpentine-h2020/user-workshop-2022 if you know how to use `git`).
     2. Open your terminal/command line/Anaconda prompt.
     3. In the terminal, navigate to the downloaded (extracted) folder `shock_analysis`.
