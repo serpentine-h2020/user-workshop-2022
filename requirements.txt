@@ -10,7 +10,7 @@ matplotlib-inline==0.1.3
 numpy>=1.20.3
 pandas>=1.3.4
 pfsspy
-seppy>=0.0.2
+seppy>=0.1.0
 solarmach>=0.1.3
 solo_epd_loader>=0.1.10
 sunpy>=4.0.4
